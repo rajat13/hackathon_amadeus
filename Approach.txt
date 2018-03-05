@@ -1,0 +1,4 @@
+
+We have decided to use mlr package for r so that a common interface for multiple ml algorithms can be adopted
+Our problem appears to be a multi label classification problem so we will follow below written tutorial
+https://www.analyticsvidhya.com/blog/2016/08/practicing-machine-learning-techniques-in-r-with-mlr-package/
